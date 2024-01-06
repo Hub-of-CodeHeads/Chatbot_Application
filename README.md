@@ -9,7 +9,7 @@ Bsc. Computer Science
 
 
 Team Members : 
-Ganesh Renuse
-Aakanksha Malwade
-Kiran Salunke 
-Vipraj Patil
+Ganesh Renuse, 
+Aakanksha Malwade, 
+Kiran Salunke, 
+Vipraj Patil.
